@@ -8,7 +8,7 @@ Turn Your template from this
 Into This
 </p>
 
-![Angharad Allan](https://user-images.githubusercontent.com/22582712/199029681-2bb738e4-fccc-431d-8f32-f84eb4424181.png)
+<img src="https://user-images.githubusercontent.com/22582712/199029681-2bb738e4-fccc-431d-8f32-f84eb4424181.png" alt="cloud-img">
 
 
 <br>
